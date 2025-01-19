@@ -6,7 +6,7 @@
 <p align="left" style="font-size: 18px; font-family: Arial, sans-serif;"> 
   <span style="color: #0e75b6; font-weight: bold;">Profile Views</span> 🚀
    <img src="https://komarev.com/ghpvc/?username=sudarshangithub96&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
+    alt="Profile Views"/>
 </p>
 
 
