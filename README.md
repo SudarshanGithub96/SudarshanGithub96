@@ -18,6 +18,7 @@
 - 💬 **Ask me about**:  
   - .NET Development
   - **LinkedIn**: [sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
+  - **naukri.com**: [Sudarshan Sharma](https://www.naukri.com/mnjuser/profile)
 
 - 📫 **How to reach me**:  
   - **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
