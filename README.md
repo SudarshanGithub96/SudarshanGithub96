@@ -6,6 +6,11 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sudarshangithub96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p align="left" style="font-size: 18px; font-family: Arial, sans-serif;"> 
+  <img src="https://komarev.com/ghpvc/?username=sudarshangithub96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="color: #0e75b6; font-weight: bold;">Profile Views</span> 🚀
+</p>
+
 
 - 🔭 **Completed Projects**:  
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman and Middle East</a>  
