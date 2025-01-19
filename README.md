@@ -17,7 +17,7 @@
 
 - 💬 **Ask me about**:  
   - .NET Development
-  - **LinkedIn**: [https://www.linkedin.com/in/sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
+  - **LinkedIn**: [sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
 
 - 📫 **How to reach me**:  
   - **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
