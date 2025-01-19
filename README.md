@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshangithub96&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshangithub96" /> </p>
 
-- 🔭 I’m currently working on [Kreate Technology SPC](https://kreate-spc.kreatetechnologies.com/)
+- 🔭 Completed Project in .NET Core [Innovative IT and AI Solutions Provider in Oman and Middle East](https://kreatetechnologies.om/)
+- - 🔭 Worked in Atal Bhujal Yojana (Atal Jal) [Atal Jal](https://ataljal.mowr.gov.in/)
 
 - 🌱 I’m currently learning **Angular, Entity Framework**
 
