@@ -8,8 +8,8 @@
 </p>
 
 - 🔭 **Completed Projects**:  
-  - [Innovative IT and AI Solutions Provider in Oman and Middle East](https://kreatetechnologies.om/)  
-  - [Atal Bhujal Yojana (Atal Jal)](https://ataljal.mowr.gov.in/)
+  - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman and Middle East</a>  
+  - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal)</a>
 
 - 🌱 **Currently Learning**:  
   - Angular  
