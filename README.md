@@ -31,12 +31,6 @@
     <a href="https://linkedin.com/in/sudarshan-sharma-sde" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://codepen.io/@codepensudarshan" target="blank">
-    <img align="center" src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100">
-  <text x="10" y="50" font-family="Arial, sans-serif" font-size="40" fill="#0071C5">Naukri</text>
-  <text x="140" y="50" font-family="Arial, sans-serif" font-size="40" fill="#FF4500">.com</text>
-</svg>" alt="CodePen" height="30" width="40" />
-  </a>
   <a href="https://stackoverflow.com/users/21991230" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
