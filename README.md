@@ -17,9 +17,9 @@
 
 - 💬 **About me**:  
   - ".NET Developer with over 1.5 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."
-  - **LinkedIn**: [sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
-  - **Naukri.com**: [SudarshanSharma/profile](https://www.naukri.com/mnjuser/profile)
-  - **Shine.com**: [SudarshanSharma/profile](https://www.shine.com/myshine/myprofile/)
+  - **LinkedIn**:     [sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
+  - **Naukri.com**:   [SudarshanSharma/profile](https://www.naukri.com/mnjuser/profile)
+  - **Shine.com**:    [SudarshanSharma/profile](https://www.shine.com/myshine/myprofile/)
   - **Leetcode.com**: [SudarshanSDE/](https://leetcode.com/u/SudarshanSDE/)
 
 - 📫 **How to reach me**:  
