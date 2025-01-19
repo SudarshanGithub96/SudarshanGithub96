@@ -11,10 +11,6 @@
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman and Middle East</a>  
   - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal)</a>
 
-- 🌱 **Currently Learning**:  
-  - Angular  
-  - Entity Framework  
-
 - 💬 **About me**:  
   - ".NET Developer with over 1.5 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."
   - **LinkedIn**:     [sudarshan-sharma-sde/](https://www.linkedin.com/in/sudarshan-sharma-sde/)
@@ -26,6 +22,10 @@
   - **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
 ---
 
+- 🌱 **Currently Learning**:  
+  - Angular  
+  - Entity Framework  
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
